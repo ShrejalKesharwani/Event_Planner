@@ -1,4 +1,5 @@
 {
+  "homepage": "https://shrejalkesharwani.github.io/Event_Planner",
   "name": "lab3_eventplanner",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +10,6 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite build; vite preview --host"
   },
-  "homepage": "https://shrejalkesharwani.github.io/Event_Planner"
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
